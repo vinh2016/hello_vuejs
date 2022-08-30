@@ -1,14 +1,35 @@
 # VINH START COMMENT
+
 https://vuejs.org/guide/quick-start.html#with-build-tools
-To create a build-tool-enabled Vue project on your machine:
-> npm init vue@latest
-Input “project_name”
-Click “yes” all to install the packages.
-> cd project_name
-> npm install
-> npm run lint
-> npm run dev
+
+1. To create a build-tool-enabled Vue project on your machine:
+
+```sh
+npm init vue@latest
+```
+
+2. Input “project_name”
+
+3. Click “yes” all to install the packages.
+
+```sh
+cd project_name
+```
+
+```sh
+npm install
+```
+
+```sh
+npm run lint
+```
+
+```sh
+npm run dev
+```
+
 Open http://127.0.0.1:5173/ on the browser
+
 # VINH END COMMENT
 
 
